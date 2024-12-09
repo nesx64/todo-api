@@ -89,9 +89,15 @@ Every response, except for deletion, is `JSON`.
 
 #### Example of return
 
+If the deletion was successfull, else will return `false`.
+
 ```json
-true //if the deletion was successfull
+true
 ```
+
+### Example on the terminal
+
+<img src="illust.png">
 
 
 
